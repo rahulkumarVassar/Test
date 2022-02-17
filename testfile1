@@ -1,3 +1,7 @@
 hello test file
 feature1 added
+<<<<<<< HEAD
 feature1 update addition1
+=======
+feature1 update addition2
+>>>>>>> changes additon2
